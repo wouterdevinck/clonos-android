@@ -11,7 +11,7 @@ Repositories
    https://github.com/wouterdevinck/clonos-application
  * Build system (Buildroot configuration files, kernel configuration, ...): <br />
    https://github.com/wouterdevinck/clonos-build
- * Android app: <br />
+ * **Android app**: <br />
    https://github.com/wouterdevinck/clonos-android
 
 License
